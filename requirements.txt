@@ -26,6 +26,6 @@ soupsieve==1.9.5
 toml==0.10.0
 tox==3.14.2
 translate==3.5.0
-urllib3==1.25.7
+urllib3==1.26.5
 virtualenv==16.7.8
 zipp==0.6.0
